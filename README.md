@@ -6,7 +6,7 @@ Instructions:
 
 * Make sure you have access to the internet since this is an online game
 
-* Click play.py to play the game
+* Click main.py to play the game
 
 * Move chess pieces by dragging them and dropping them where you want them to go
  
