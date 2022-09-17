@@ -3,6 +3,7 @@ SIMPLE CHESS GAME IN PYTHON
 
 Instructions:
 
+* Click the download as zip button under the code tab
 
 * Make sure you have access to the internet since this is an online game
 
