@@ -16,7 +16,7 @@ Instructions:
 *****  WATCH TUTORIAL - https://youtu.be/6qCwhi6f444 *****
 
 
-Developed By: Adithya Mittapelli
+Developed By: Adithya Mittapally
 
 
 ***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
@@ -34,4 +34,4 @@ Developed By: Adithya Mittapelli
 #THANK YOU FOR DOWNLOADING
 
 
-© 2022 Adithya Creation, Inc
+© 2024 Adithya Creation, Inc
